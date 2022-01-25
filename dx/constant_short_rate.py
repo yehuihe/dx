@@ -6,7 +6,7 @@
 
 import numpy as np
 
-from get_year_deltas import get_year_deltas
+from .get_year_deltas import get_year_deltas
 
 
 class ConstantShortRate:
